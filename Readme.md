@@ -7,7 +7,7 @@ Convention: the first floor is numbered 0.
 ## Compilation
 ```javac Task.java Elevator.java Controller.java ```
 ## Execution
-```java Controller <nb_floors> <nb_elevators> <filename>```
+```java Controller <nb_floors> <nb_elevators> <filename>```<br>
 ``` nb_floors ``` is the number of floors in the building
 ``` nb_elevator ```is the number of elevators in the building
 ``` filename ```is the name of the CSV file that contains all tasks assign to the elevator with their assignation time
